@@ -30,10 +30,6 @@ Analyzed bike-sharing data for 2021 and 2022 to understand sales performance, re
 - Season 3 generates the highest seasonal revenue.
 - September records the highest monthly revenue in the selected 2022 view.
 
-## 📷 Dashboard Preview
-
-![Denver Bike Share Dashboard](dashboard.png)
-
 ## 📁 Project Files
 - `bike_share_yr_0.csv` – 2021 data
 - `bike_share_yr_1.csv` – 2022 data
